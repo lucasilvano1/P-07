@@ -5,7 +5,7 @@ export const SmartHandsHeroSection: React.FC = () => {
   return <section className="relative h-[1080px] flex items-start justify-center mt-[-4rem]">
       {/* Background image */}
       <div className="absolute inset-0 bg-cover bg-center" style={{
-      backgroundImage: "url('/lovable-uploads/f3234756-e15a-4902-843f-ea5ddddc321e.png')"
+      backgroundImage: "url('/altan-uploads/f3234756-e15a-4902-843f-ea5ddddc321e.png')"
     }}>
       </div>
       

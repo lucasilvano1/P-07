@@ -34,7 +34,7 @@ export const MeetWesSection: React.FC = () => {
           <div className="md:w-1/2 flex justify-center items-end relative">
             <RevealAnimation delay={0.4} direction="right">
               <div className="relative pt-16 pb-24 py-[32px]">
-                <img src="/lovable-uploads/c0d297ea-5ef9-4faf-96be-2bf0cd30c818.png" alt="Wes working on a laptop" className="max-w-full h-auto relative z-0 scale-125" loading="lazy" width="600" height="800" />
+                <img src="/altan-uploads/c0d297ea-5ef9-4faf-96be-2bf0cd30c818.png" alt="Wes working on a laptop" className="max-w-full h-auto relative z-0 scale-125" loading="lazy" width="600" height="800" />
               </div>
             </RevealAnimation>
           </div>

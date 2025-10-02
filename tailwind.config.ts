@@ -75,8 +75,8 @@ export default {
 			},
 			backgroundImage: {
 				'hero-gradient': 'linear-gradient(to bottom, #270C4F, #1A0B2E)',
-				'cityscape': "url('/lovable-uploads/99d3c126-d751-4026-89fe-23af711bc9e7.png')",
-				'hero-datacenter': "url('/lovable-uploads/a8d5d96a-e8c6-4b08-b6a8-93f9af95e716.png')",
+				'cityscape': "url('/altan-uploads/99d3c126-d751-4026-89fe-23af711bc9e7.png')",
+				'hero-datacenter': "url('/altan-uploads/a8d5d96a-e8c6-4b08-b6a8-93f9af95e716.png')",
 				'button-gradient': 'linear-gradient(to right, #764ABC, #9b87f5)',
 			},
 			borderRadius: {

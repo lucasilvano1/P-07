@@ -28,16 +28,16 @@ export const WestcityFixSection: React.FC = () => {
 
         <div className="grid md:grid-cols-4 gap-6">
           <RevealAnimation delay={0.2}>
-            <ProcessCard icon={<img src="/lovable-uploads/8be7f949-1f0c-441d-8d7d-11512ce2cc04.png" alt="Audit" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Audit" description="We walk your site — or your team uploads photos using our audit checklist." />
+            <ProcessCard icon={<img src="/altan-uploads/8be7f949-1f0c-441d-8d7d-11512ce2cc04.png" alt="Audit" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Audit" description="We walk your site — or your team uploads photos using our audit checklist." />
           </RevealAnimation>
           <RevealAnimation delay={0.3}>
-            <ProcessCard icon={<img src="/lovable-uploads/3867c9f2-00b4-4050-8d42-da3b731765ac.png" alt="Review & Score" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Review & Score" description="Wes scores your racks, flags risks, and generates a Vault Score." />
+            <ProcessCard icon={<img src="/altan-uploads/3867c9f2-00b4-4050-8d42-da3b731765ac.png" alt="Review & Score" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Review & Score" description="Wes scores your racks, flags risks, and generates a Vault Score." />
           </RevealAnimation>
           <RevealAnimation delay={0.4}>
-            <ProcessCard icon={<img src="/lovable-uploads/6ac3d1bf-3d96-414f-b3f4-28745a67776f.png" alt="Reporting + Recommendations" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Reporting + Recommendations" description="You get a clear, visual report with before/after photos, risks, and recommendations." />
+            <ProcessCard icon={<img src="/altan-uploads/6ac3d1bf-3d96-414f-b3f4-28745a67776f.png" alt="Reporting + Recommendations" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Reporting + Recommendations" description="You get a clear, visual report with before/after photos, risks, and recommendations." />
           </RevealAnimation>
           <RevealAnimation delay={0.5}>
-            <ProcessCard icon={<img src="/lovable-uploads/196f3283-4104-458f-b55b-4c8a84adb2f9.png" alt="Infrastructure Intelligence Activated" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Infrastructure Intelligence Activated" description="Vault tracks what changed — every site, every quarter, every visit." />
+            <ProcessCard icon={<img src="/altan-uploads/196f3283-4104-458f-b55b-4c8a84adb2f9.png" alt="Infrastructure Intelligence Activated" className="h-auto w-[150px]" loading="lazy" width="150" height="150" />} title="Infrastructure Intelligence Activated" description="Vault tracks what changed — every site, every quarter, every visit." />
           </RevealAnimation>
         </div>
       </div>

@@ -8,14 +8,14 @@ export const CallToActionSection: React.FC = () => {
   return <section className="py-16 relative h-[1201px] flex items-start overflow-hidden">
       {/* Background image with overlay */}
       <div className="absolute inset-0 bg-cover bg-center" style={{
-      backgroundImage: "url('/lovable-uploads/9fd79ad2-3c32-4d54-9230-0d0a7d0da286.png')"
+      backgroundImage: "url('/altan-uploads/9fd79ad2-3c32-4d54-9230-0d0a7d0da286.png')"
     }}>
         <div className="absolute inset-0 bg-transparent py-0 my-0"></div>
       </div>
       
       {/* Character image positioned centrally */}
       <div className="absolute w-full bottom-0 flex justify-center items-end z-10">
-        <img src="/lovable-uploads/68d95f81-6170-4b72-881e-a020552fbd79.png" alt="Westside technician with laptop" className="w-auto h-auto max-w-[700px]" loading="lazy" width="700" height="823" />
+        <img src="/altan-uploads/68d95f81-6170-4b72-881e-a020552fbd79.png" alt="Westside technician with laptop" className="w-auto h-auto max-w-[700px]" loading="lazy" width="700" height="823" />
       </div>
       
       {/* Content positioned at the top with padding */}
